@@ -1,5 +1,5 @@
 <!--- -- Custom Designed Banner --------------------------------------------------------------------------------------------- -->
-![Banner GitHub](https://github.com/AlexandroFSD/nechyporenko_alex/blob/main/src/github_banner.png)
+![Banner GitHub](https://github.com/alexnechyporenko/alexnechyporenko/blob/main/src/gh_banner_ai.png)
 
 <!--- -- Visitor Badge + Links ------------------------------------------------------------------------------------------------->
 <div align="center">
