@@ -4,10 +4,13 @@
 <!--- -- Visitor Badge + Links ------------------------------------------------------------------------------------------------->
 <div align="center">
 
-[![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&color=088484&logoColor=white)](mailto:oleksandr.nechyporenko81@gmail.com) [![site](https://img.shields.io/badge/PyScrapePro-00C7B7?style=plastic&logo=netlify&color=088484&logoColor=white)](https://pyscrapepro.netlify.app/) 
-[![Credly](https://img.shields.io/badge/Credly-informational?style=plastic&logo=credly&color=088484)](https://www.credly.com/users/alex-nechyporenko) [![GitHub](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=refinedgithub&logoColor=white&color=088484)](https://github.com/AlexandroFSD/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&color=088484)](https://www.linkedin.com/in/nechyporenko-alex/) <br>
-![Visits](https://img.shields.io/badge/Visitors_counter-754-informational?style=plastic&logo=Opsgenie&color=088484) <a href="https://www.github.com/AlexandroFSD" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/AlexandroFSD?logo=github&style=plastic&color=088484" /></a>
+[![GitHub](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=refinedgithub&logoColor=white&color=088484)](https://github.com/alexnechyporenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&color=088484)](https://www.linkedin.com/in/alexnechyporenko) 
+[![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&color=088484&logoColor=white)](mailto:oleksandr.nechyporenko81@gmail.com) [![site](https://img.shields.io/badge/AlexNechyporenko-00C7B7?style=plastic&logo=netlify&color=088484&logoColor=white)](https://alexnechyporenko.dev) <br>
+![Visits](https://img.shields.io/badge/Visitors_counter-369-informational?style=plastic&logo=Opsgenie&color=088484) 
+<a href="https://github.com/alexnechyporenko" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/alexnechyporenko?label=Followers&logo=github&style=plastic&color=088484" alt="GitHub Followers" />
+</a>
+
 
 </div>
 
@@ -17,146 +20,168 @@
 
 # Hi 👋 My name is Alex Nechyporenko
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=088484&width=500&lines=Python+Developer+%7C+Web+Scraping+%26+Automation;Anti-Bot+%26+Cloudflare+Bypass+Expert;Backend+APIs+%7C+Async+Data+Pipelines)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=088484&width=550&lines=Python+Backend+%26+AI+Systems+Engineer;LLM+Integration+%7C+RAG+Architectures;Vector+Search+%7C+High-Performance+Backend+Systems)](https://git.io/typing-svg)
 
-I am a **Python Developer specializing in high-performance web scraping, browser automation, and backend API development**.
+I am a **Python Backend & AI Systems Engineer** focused on building scalable backend infrastructure and AI-driven data systems.
 
-I design and build **production-grade scraping systems** capable of handling:
-- dynamic JavaScript-rendered websites,
-- anti-bot and Cloudflare protection,
-- large-scale data extraction,
-- long-running, stable automation workflows.
+My work combines **LLM integration, vector search, high-throughput data pipelines, and async backend architectures** to build production-ready systems capable of processing and delivering structured data at scale.
 
-My work focuses on delivering **clean, structured datasets (JSON, CSV, API)** and **fully automated pipelines** with monitoring, retries, proxy rotation, and incremental updates.
+I design systems across the full lifecycle:
+
+- data acquisition
+- ingestion & normalization
+- vector embedding pipelines
+- retrieval and API layers
+- containerized deployment
+
+Many of my projects combine **AI retrieval (RAG), scalable data ingestion, and API-first backend services** designed for reliability, performance, and maintainability.
+
+---
 
 ### 💡 Why Work With Me
-- I focus on **stable, long-running scraping systems**, not disposable scripts
-- I design pipelines that survive **anti-bot changes, traffic spikes, and scale**
-- I think in terms of **architecture, failure modes, monitoring, and maintainability**
+
+- I design **production-grade data and AI systems**, not disposable scripts
+- I think in terms of **architecture, scalability, and failure resilience**
+- I build **LLM-ready data infrastructures** supporting semantic retrieval and RAG pipelines
+- I optimize systems for **high-throughput processing and long-running stability**
 
 - 📄 Resume:  
-  [View Resume & Download PDF](https://pyscrapepro.netlify.app/resume)
+  [View Resume & Download PDF](https://lnk.ink/resume_cv_alex_nechyporenko_py_ai_engineer)
 
 ---
 
 ### 🧠 Core Expertise
-- Web Scraping & Browser Automation (Playwright, Selenium, Scrapy)
-- Anti-bot & Cloudflare bypass strategies
-- Async architectures (asyncio, multiprocessing)
+
+- AI Retrieval Systems (RAG architectures)
+- LLM integration & embedding pipelines
+- Vector search (pgvector)
+- Async backend architectures (asyncio, multiprocessing)
+- High-throughput data ingestion pipelines
 - Backend API development (FastAPI)
-- Data processing, normalization, and incremental updates
+- Data normalization & incremental pipelines
 - SQL & NoSQL databases (PostgreSQL, MongoDB)
-- Dockerized deployments & Linux automation
+- Dockerized deployment & Linux infrastructure
 
 ---
 
 ### 📌 Selected Engineering Results
-- Built scraping systems collecting **30,000+ records** from Cloudflare-protected websites  
-- Aggregated **12,000+ IT job listings** from multiple platforms with incremental updates  
-- Improved scraping throughput by **5×–8×** using async pipelines and optimization  
-- Achieved **<1% failed requests** using retries, proxy rotation, and session handling  
+
+- Built **AI semantic retrieval system (RAG)** using PostgreSQL pgvector and OpenAI embeddings  
+- Implemented **scalable async ingestion pipeline aggregating 12,000+ records**  
+- Designed **high-load acquisition architecture collecting 30,000+ records** from protected sources  
+- Achieved **5×–8× performance improvements** via async and multiprocessing pipelines  
+- Maintained **<1% failure rate** using adaptive retry strategies and proxy orchestration 
 
 > Detailed case studies are available on request.
 
 ---
 
 ### 🤝 Collaboration
-I am open to:
-- remote full-time roles,
-- contract / consulting work,
-- complex scraping & automation challenges.
 
-If you need **reliable data extraction without bot blocks or instability**, feel free to reach out.
+I am open to:
+
+- Backend Engineer roles (AI-focused)
+- AI / LLM Systems Engineering roles
+- Data infrastructure & retrieval system projects
+- Remote full-time or contract opportunities
+
+If you're building **AI-powered applications or scalable data platforms**, feel free to reach out.
 
 ---
   
-## 🧰 Skills 
+## 🧰 Skills
 
 | Category | Skills |
 |---|---|
-| Operating Systems | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-informational?style=plastic&logo=microsoft) |
-| Front-End (basic) | ![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) |
-| Back-End Development | ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) |
-| Web Scraping & Automation | ![Requests](https://img.shields.io/badge/Requests-2980B9?style=plastic) ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-6390DF?style=plastic) ![lxml](https://img.shields.io/badge/Lxml-4A5D7C?style=plastic) ![Scrapy](https://img.shields.io/badge/Scrapy-8CB53E?style=plastic) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=plastic&logo=playwright&logoColor=white) |
-| Data Processing & Analysis | ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) |
-| APIs & Web Services | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) |
-| Databases | ![SQLite](https://img.shields.io/badge/Sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) |
-| Version Control & DevOps | ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) |
-| Other | ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) |
+| **Programming & Core Engineering** | ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![System Design](https://img.shields.io/badge/System_Design-informational?style=plastic) |
+| **AI & Retrieval Systems** | ![OpenAI](https://img.shields.io/badge/OpenAI-009688?style=plastic&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-0FA958?style=plastic) ![RAG](https://img.shields.io/badge/RAG_Architectures-informational?style=plastic) ![Vector Search](https://img.shields.io/badge/Vector_Search-informational?style=plastic) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=plastic&logo=postgresql&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-5C2D91?style=plastic) |
+| **Backend Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-informational?style=plastic) ![Gunicorn](https://img.shields.io/badge/Gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) |
+| **Async & High-Performance Processing** | ![Asyncio](https://img.shields.io/badge/Asyncio-informational?style=plastic) ![Multiprocessing](https://img.shields.io/badge/Multiprocessing-informational?style=plastic) ![High_Load_Systems](https://img.shields.io/badge/High_Load-informational?style=plastic) |
+| **Data Engineering** | ![ETL](https://img.shields.io/badge/ETL_Pipelines-informational?style=plastic) ![Data_Normalization](https://img.shields.io/badge/Data_Normalization-informational?style=plastic) ![Incremental_Pipelines](https://img.shields.io/badge/Incremental_Pipelines-informational?style=plastic) |
+| **Data Acquisition** | ![Requests](https://img.shields.io/badge/Requests-2980B9?style=plastic) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-6390DF?style=plastic) ![Scrapy](https://img.shields.io/badge/Scrapy-8CB53E?style=plastic) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=plastic&logo=selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2E8B57?style=plastic&logo=playwright&logoColor=white) |
+| **Databases & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=plastic&logo=redis&logoColor=white) |
+| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) |
+| **Tools** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) |
 
 ***
-
 
 ## 🏆 Certifications & Professional Development
 
 <details>
-<summary><strong>Show selected certifications (relevant to Web Scraping, Backend & Data)</strong></summary>
+<summary><strong>Show selected certifications (relevant to AI & LLM Systems, Backend & Data)</strong></summary>
 <br>
 
-### 📊 Data Engineering & Python
-- IBM - Data Fundamentals  
-- IBM - Data Analysis with Python
-- DataCamp - Software Engineering Principles in Python  
-- DataCamp - ETL and ELT in Python
-- DataQuest - Data Pipelines   
-- DataCamp - Streamlined Data Ingestion with pandas  
-- DataCamp - Intermediate Importing Data in Python  
+### 🧠 AI & LLM Systems
 
-### 🕷 Web Scraping & APIs
-- DataCamp - Introduction to APIs in Python  
-- DataCamp - Introduction to FastAPI  
-- DataCamp - Introduction to Apache Airflow in Python  
-- MongoDB - MongoDB Python Developer Path  
+- Foundations of Retrieval-Augmented Generation (RAG) Systems
+- Developing LLM Applications with LangChain
+- Working with Llama 3
 
-### 🧠 Backend & Databases
-- ITVDN - Python Developer  
-- ITVDN - Flask  
-- ITVDN - PostgreSQL  
-- ITVDN - MongoDB
-- DataQuest - Production Databases 
-- DataCamp - Database Design  
-- DataCamp - NoSQL Concepts  
+### ⚙️ Backend & Infrastructure
 
-### ⚙️ DevOps & Infrastructure
-- ITVDN - Docker  
-- DataCamp - DevOps Concepts  
-- IBM - Cloud Computing Fundamentals  
+- Deploying AI Systems with FastAPI
+- Mastering Docker: Containers, Networking & Orchestration
+- Amazon Web Services Cloud Fundamentals
 
-### 🔐 Security & Reliability
-- Cisco - Introduction to Cybersecurity  
+### 📊 Data & Storage Systems
 
-### 🧩 Engineering Foundations
-- DataCamp - Introduction to Object-Oriented Programming in Python  
-- DataCamp - Introduction to Testing in Python  
+- PostgreSQL
+- Redis
+- MongoDB
+- Data Pipelines
+- APIs and Web Scraping In Python
 
 </details>
 
 <br>
 
-*Additional certificates (soft skills, design, frontend, CMS, languages) are available upon request.*
+*Additional certificates are available upon request.*
+*Verification links and certificate images are available on my website in the [Certificates](https://alexnechyporenko.dev/#сertificates) section.*
 
 ***
 
 ## 🚀 Featured Projects
 
-[Web Scraping Case Studies — High-Load & Anti-Bot Systems](https://lnk.ink/web-scraping-case-studies)
+[Case Studies Scalable Data Acquisition & AI-Ready Processing Systems](https://lnk.ink/ai_case-studies)
 
-### 💻 IT Vacancy Aggregator
-- High-load scraping platform aggregating 12,000+ job listings
-- Async pipelines, proxy rotation, incremental updates
-- Focus on stability, scalability, and anti-bot resistance
-- **Architecture:** async crawler + proxy pool + incremental storage layer with deduplication
+### 🤖 AI Data Retrieval System (RAG + pgvector)
 
-### 🎧 Music Dataset Scraper + API
-- 30,000+ records collected from Cloudflare-protected sources
-- FastAPI backend with auth and protected endpoints
-- Designed for large-scale data delivery
-- **Architecture:** browser-based scraper feeding a FastAPI backend with protected endpoints
+Production-ready semantic retrieval system enabling vector similarity search.
 
-### 🚍 Car Rental Data Collector
-- JavaScript-heavy website scraping using Playwright
-- 5×–8× performance improvement via async & multiprocessing
-- **Architecture:** Playwright-driven scraping with parallel workers and optimized session reuse
+- OpenAI embedding pipeline
+- PostgreSQL with pgvector for vector search
+- FastAPI endpoints for RAG workflows
+- Modular ingestion → embedding → retrieval architecture
+
+**Stack:** Python, FastAPI, PostgreSQL (pgvector), OpenAI API, Docker
+
+---
+
+### 📊 Scalable Data Aggregation & Normalization Engine
+
+High-throughput async ingestion system aggregating structured data from multiple platforms.
+
+- asyncio + multiprocessing workers
+- centralized normalization layer
+- incremental upsert strategy
+- fault-tolerant retry mechanisms
+
+**Results:**  
+12k+ records aggregated • 5–8× performance improvement • <1% failure rate
+
+---
+
+### 🌐 High-Load Data Acquisition & API System
+
+Resilient acquisition platform operating under anti-bot constraints.
+
+- hybrid HTTP + browser automation
+- proxy rotation & adaptive retry logic
+- async ingestion pipeline
+- FastAPI backend exposing REST APIs
+
+**Results:**  
+30k+ structured records collected
 
 ***
 
@@ -165,10 +190,10 @@ If you need **reliable data extraction without bot blocks or instability**, feel
 Let's connect and discuss how I can help you with your data-driven projects. 
 <br>
 <p align="center">
-  <a href="https://github.com/AlexandroFSD/" target="_blank">
+  <a href="https://github.com/alexnechyporenko" target="_blank">
     <img src="https://skillicons.dev/icons?i=github&theme=dark&perline=3" />
   </a>
-  <a href="https://www.linkedin.com/in/nechyporenko-alex/" target="_blank">
+  <a href="https://www.linkedin.com/in/alexnechyporenko" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=3" />
   </a>
   <a href="mailto:oleksandr.nechyporenko81@gmail.com" target="_blank">
