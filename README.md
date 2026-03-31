@@ -114,8 +114,10 @@ If you're building **AI-powered applications or scalable data platforms**, feel 
 ### 🧠 AI & LLM Systems
 
 - Foundations of Retrieval-Augmented Generation (RAG) Systems
+- Data Processing for LLMs
 - Developing LLM Applications with LangChain
 - Working with Llama 3
+- Building a Vector Search Engine with Pgvector
 
 ### ⚙️ Backend & Infrastructure
 
