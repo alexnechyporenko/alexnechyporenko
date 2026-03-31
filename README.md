@@ -159,6 +159,23 @@ Production-ready semantic retrieval system enabling vector similarity search.
 
 ---
 
+### 📚 BookMind RAG - Citation-Aware Retrieval System
+
+Public-facing citation-aware Retrieval-Augmented Generation system for querying technical PDF books, built to demonstrate production-relevant retrieval architecture and answer grounding.
+
+- local-first semantic retrieval pipeline
+- ChromaDB vector search with MiniLM embeddings
+- cross-encoder reranking for retrieval precision
+- citation-aware answer assembly with confidence estimation
+- Hugging Face Spaces deployment with modular service-layer architecture
+
+**Stack:** Python, Gradio, ChromaDB, Sentence Transformers, PyMuPDF, YAML
+
+**Links:** [GitHub](https://github.com/alexnechyporenko/bookmind_rag) • [Live Demo](https://huggingface.co/spaces/alexnechyporenko/bookmind_rag)
+
+---
+
+
 ### 📊 Scalable Data Aggregation & Normalization Engine
 
 High-throughput async ingestion system aggregating structured data from multiple platforms.
