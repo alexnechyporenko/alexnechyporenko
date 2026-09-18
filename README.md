@@ -5,7 +5,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-informational?style=plastic&logo=refinedgithub&logoColor=white&color=088484)](https://github.com/alexnechyporenko) [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=plastic&logo=linkedin&color=088484)](https://www.linkedin.com/in/alexnechyporenko) 
-[![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&color=088484&logoColor=white)](mailto:oleksandr.nechyporenko81@gmail.com) [![site](https://img.shields.io/badge/https://alexnechyporenko.dev-00C7B7?style=plastic&logo=netlify&color=088484&logoColor=white)](https://alexnechyporenko.dev) <br>
+[![email](https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&color=088484&logoColor=white)](mailto:nech.alex999@gmail.com) [![site](https://img.shields.io/badge/https://alexnechyporenko.dev-00C7B7?style=plastic&logo=netlify&color=088484&logoColor=white)](https://alexnechyporenko.dev) <br>
 ![Visits](https://img.shields.io/badge/Visitors_counter-369-informational?style=plastic&logo=Opsgenie&color=088484) 
 <a href="https://github.com/alexnechyporenko" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/alexnechyporenko?label=Followers&logo=github&style=plastic&color=088484" alt="GitHub Followers" />
@@ -215,7 +215,7 @@ Let's connect and discuss how I can help you with your data-driven projects.
   <a href="https://www.linkedin.com/in/alexnechyporenko" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark&perline=3" />
   </a>
-  <a href="mailto:oleksandr.nechyporenko81@gmail.com" target="_blank">
+  <a href="mailto:nech.alex999@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=3" />
   </a>
 </p>
